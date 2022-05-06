@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+*{
+    font-family: 'DotGothic16', sans-serif;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+    font-size: 25px;
+};
+.linkeditem{
+    width:100%;
+    height: 100%;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.content{
+    margin-top: 60px;
+    input{
+        width: 100px;   
+        border-style: none;
+        border-bottom: 3px solid black ;
+    }
+    .writeTime{
+        font-size: 100px;
+    }
+    
+    .buttons{
+        margin-top: 25px;
+    }
+}
