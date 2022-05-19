@@ -79,7 +79,6 @@ function AlarmList({AlarmLists}){
         {AlarmLists.map((alarm)=>{
             return(
             <div>
-                {console.log(alarm)}
                {String(alarm.hour).padStart(2,0)}:{String(alarm.min).padStart(2,0)}
             </div>
             )
