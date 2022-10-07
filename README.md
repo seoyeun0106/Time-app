@@ -40,6 +40,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 # 👀 What's in here?
+
+## Alarm service
+
 ![alarm](https://user-images.githubusercontent.com/92535912/194469803-49d89d1d-06d6-4104-93cc-a8ca28ec80ff.jpg)
 
+## Stopwatch
+
 ![stopwatch JPG](https://user-images.githubusercontent.com/92535912/194469836-9e5937b3-b664-445b-884d-3b8fe1161dda.jpg)
+
+## Timer, Clock
+
+### a whole time- related service is offered!
